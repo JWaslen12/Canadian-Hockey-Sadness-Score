@@ -1,2 +1,2 @@
 # Canadian-Hockey-Sadness-Score
-Using cold-hard data, I will prove beyond a reasonable doubt, which Canadian NHL team is the saddest. And why it is the Leafs.
+Using cold-hard data, I will prove beyond a reasonable doubt, which Canadian NHL team is the saddest.
